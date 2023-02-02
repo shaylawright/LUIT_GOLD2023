@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello Everyone👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+My name is Shayla and I am currently a healthcare administrator transitioning my way into technology and cloud computing. Polar opposites, huh? 🌝🌚. I am working towards becoming knowledgable as a DevOps Engineer with desires to later move into solutions architecture which is the pinnacle for me! I am currently a student in Level Up In Tech and I hope you find something you will enjoy following along on my Git hub!
 
-Find out more about me & feel free to connect with me here:
+I plan to obtain my LPI Linux Certification ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)and also my AWS- Developer Associate in the coming weeks.![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
